@@ -1,0 +1,16 @@
+
+.app {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+}
+
+.dark {
+  background-color: #181818;
+  color: white;
+}
+
+.main-content {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
